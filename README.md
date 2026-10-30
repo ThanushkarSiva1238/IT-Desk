@@ -1,5 +1,7 @@
 # IT Desk — Internal IT Knowledge Base
 
+<img width="1917" height="917" alt="image" src="https://github.com/user-attachments/assets/829f2400-8cdf-40d4-99ab-28c4da6a3984" />
+
 A simple, static IT information dashboard for storing and finding your
 organization's device credentials, server info, activation/license codes,
 and step-by-step configuration guides — built with plain HTML, CSS and
